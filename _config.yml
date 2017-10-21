@@ -1,10 +1,10 @@
 # Jekyll configuration
 
-name: Xixia
-description: Welcome to Xixia！
+name: HyojunChoi
+description: Hyo jun Repositories！
 
 # url is currently only used only for the RSS feed in feed.xml
-url: https://github.com/zxixia/jekyll-xixia
+url: https://github.com/hyojun123.github.io
 
 # baseurl will often be '', but for a project page on gh-pages, it needs to
 # be the project name.
