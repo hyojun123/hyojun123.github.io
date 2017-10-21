@@ -9,6 +9,11 @@ description: study about github blog posting theory.
 <br>
 여기 오신걸 환영합니다.
 
+~~~javascript
+var i = 3
+
+for(isss)
+~~~
 
 
 
