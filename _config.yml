@@ -1,7 +1,7 @@
 # Jekyll configuration
 
-name: Hyojun+"'"+s blog
-description: Hyojun repositories
+name: Hyojun's blog
+description: Hyojun's repositories
 
 # Url is currently only used only for the RSS feed in feed.xml
 url: http://hyojun123.github.io
