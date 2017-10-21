@@ -2,8 +2,8 @@
 layout: post
 title: "첫번째 포스팅"
 date: 2017-10-21 16:25:06
-tags: github
-description: study about github blog posting theory.
+tags: javascript
+description: javascript basic.
 ---
 
 <br>
