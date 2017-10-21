@@ -108,3 +108,5 @@ HTML페이지에는 크게 HTML 태그 주석과 자바스크립트 주석이 �
 
 함수 안에 들어가는 것은 매개변수라고 부른다.<br/>
 이것을 저장하고 실행하면 경고창에 Hello World!가 뜨는것을 볼 수 있다.
+
+<img src="{{ site.baseurl }}/images/171021/1.png" alt="Post Sample Image">
