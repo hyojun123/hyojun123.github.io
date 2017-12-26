@@ -2,7 +2,7 @@
 layout: post
 title: '자바스크립트에서의 함수'
 author : 효준
-date: 2017-12-26 12:13
+date: 2017-12-26 20:58
 tags: [자바스크립트]
 image: /files/covers/blog.jpg
 ---
