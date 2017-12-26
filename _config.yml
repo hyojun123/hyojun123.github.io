@@ -32,6 +32,8 @@ collections:
     output: true
     permalink: /tags/:path/
 
+disqus-shortname: myblog-ygimfr7ufu
+
 defaults:
   - scope:
       path: ''
