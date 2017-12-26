@@ -42,7 +42,8 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-    <div id="post-footer">
+    <hr/>
+       <div id="post-footer">
         {% assign author = site.authors | where: 'name', page.author | first %}
         <a id="post-author" href="{{ author.url }}">
             <div id="author-image" style="background-image:url({{ author.image | default: '' }});">
