@@ -15,7 +15,7 @@
 
     <ul id="menu" class="nav">
         <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">전체보기</a></li>
-        <li class="{% if page.url == '/opensource/' %} active {% endif %}"><a href="{{ base_path }}/tags/">카테고리</a></li>
+        <li class="{% if page.url == '/opensource/' %} {% endif %}"><a href="{{ base_path }}/tags/">카테고리</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->
