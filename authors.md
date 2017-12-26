@@ -1,5 +1,6 @@
 ---
 layout: page
+name: 효준
 title: Authors
 permalink: /authors/
 sitemap:
