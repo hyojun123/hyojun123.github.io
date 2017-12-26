@@ -1,4 +1,3 @@
-<script id="dsq-count-scr" src="//myblog-ygimfr7ufu.disqus.com/count.js" async></script>
    <div id="header">
     <button id="menu-toggle" type="button">
         <span class="sr-only">Toggle Navigation Menu</span>
@@ -15,8 +14,8 @@
     <ul class="search__results" id="results-container"></ul>
 
     <ul id="menu" class="nav">
-        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">Blog</a></li>
-        <li class="{% if page.url == '/opensource/' %} active {% endif %}"><a href="{{ base_path }}/tags/">Category</a></li>
+        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} active {% endif %}"><a href="{{ base_path }}/">전체보기</a></li>
+        <li class="{% if page.url == '/opensource/' %} active {% endif %}"><a href="{{ base_path }}/tags/">카테고리</a></li>
     </ul>
 </div>
 <!-- Script pointing to jekyll-search.js -->
