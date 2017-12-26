@@ -37,6 +37,7 @@ layout: default
     </div>
 </div>
 
+{% if site.disqus-shortname %}{% include disqus_comments.html %}{% endif %}
 <div id="post-links" class="container">
     {% assign prev = page.previous %}
     {% if prev %}
