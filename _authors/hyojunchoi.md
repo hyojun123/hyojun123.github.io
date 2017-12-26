@@ -1,5 +1,5 @@
 ---
 name: HyoJun
-title: 최효준
+title: Posts written By HyoJun
 image: /files/authors/ryan.jpg
 ---
