@@ -53,7 +53,7 @@ s.setAttribute('data-timestamp', +new Date());
         </a>
         <p id="post-date">{{ page.date | date: '%Y-%m-%d %H:%M' }}</p>
         <a id="post-more" href="{{ author.url }}">
-            <span>Read more posts by this author</span>
+            <span>다른글 보러가기</span>
         </a>
     </div>
 </div>
@@ -66,7 +66,7 @@ s.setAttribute('data-timestamp', +new Date());
              {% if prev.image %}style="background-image: url({{ prev.image }});"{% endif %}>
             <div>
                 <h3><a href="{{ prev.url }}">{{ prev.title }}</a></h3>
-                <p>YOU MIGHT ENJOY</p>
+                <p>이전 포스트</p>
             </div>
         </div>
     {% endif %}
@@ -76,7 +76,7 @@ s.setAttribute('data-timestamp', +new Date());
              {% if next.image %}style="background-image: url({{ next.image }});"{% endif %}>
             <div>
                 <h3><a href="{{ next.url }}">{{ next.title }}</a></h3>
-                <p>NEXT POST</p>
+                <p>다음 포스트</p>
             </div>
         </div>
     {% endif %}
