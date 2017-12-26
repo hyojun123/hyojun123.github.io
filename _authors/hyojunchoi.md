@@ -1,5 +1,5 @@
 ---
-name: 최효준
+name: HyoJun
 title: 최효준
 image: /files/authors/ryan.jpg
 ---
