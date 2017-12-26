@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: egoVframeWork
+name: egovframework
 title: 'egoVframeWork'
 ---
