@@ -36,8 +36,9 @@ layout: default
         </a>
     </div>
 </div>
-<div id="content">
-    <div id="disqus_thread"></div>
+<div id="content" class="container post" role="main">
+    <div id="post-content">
+        <div id="disqus_thread"></div>
 <script>
 
 /**
@@ -57,8 +58,12 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+        
+    </div>
     
 </div>
+
+
 
 <div id="post-links" class="container">
     {% assign prev = page.previous %}
