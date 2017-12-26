@@ -1,7 +1,7 @@
 ---
 layout: page
-name: 효준
-title: Authors
+title: 효준
+description: '안녕하세요. 최효준입니다.'
 permalink: /authors/
 sitemap:
   priority: 0.7
