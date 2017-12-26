@@ -25,7 +25,7 @@ paginate: 8
 paginate_path: '/page/:num/'
 
 collections:
-  authors: 최효준
+  authors:
     output: true
     permalink: /authors/:path/
   tags:
