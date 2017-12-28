@@ -45,7 +45,7 @@ defaults:
       layout: tag
 
 exclude: [README.md, Gemfile, Gemfile.lock]
-
+url: https://hyojun123.github.io
 keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
