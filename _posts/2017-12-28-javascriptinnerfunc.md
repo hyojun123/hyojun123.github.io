@@ -30,8 +30,50 @@ image: /files/covers/blog.jpg
 |clearInterval(id)|일정 시간마다 함수를 반복하는 것을 중단합니다.|
 
 
+setTimeout() 메서드는 특정한 시간 후에 함수를 한번 실행하고, setInterval() 메서드는
+특정한 시간마다 함수를 실행합니다.
+
+```
+    setTimeout(function(){ // 3초후 한번실행
+        alert('3초가 지났습니다');
+    },3000);
+    
+    setInterval(function(){ // 3초마다 실행
+        alert('3초가 지났습니다');
+    },3000);
+```
 
 
+두 함수를 종료하기위해선 clearTimeout() 함수와 clearInterval()함수를 사용합니다.
+setTimeout()함수와 setInterval()함수를 사용하면 타이머 아이디를 리턴하는데, 이 타이머의 아이디를
+clearTimeout()함수와 clearInterval()함수의 매개변수에 넣어주면 타이머를 정지할 수 있습니다.
+
+```
+    //1초마다 실행
+    var intervalID = setInterval(function() {
+        alert('<p>'+new Date()+'</p>');
+    },1000);
+    
+    //10초 후 함수 실행
+    setTimeout(function() {
+        clearInterval(intervalID);
+    },10000);
+
+```
+
+
+***
+### 인코딩과 디코딩 함수
+***
+
+|함수 이름|설명|
+|:----|:----|
+|escape()| 적절한 용도로 인코딩합니다.|
+|unescape()|적절한 정도로 디코딩 합니다.|
+|encodeURI(uri)|최소한의 문자만 인코딩합니다.|
+|decodeURI(encodedURI)|최소한의 문자만 디코딩합니다.|
+|encodeURIComponent(uriComponent)|문자 대부분을 모두 인코딩합니다.|
+|decodeURIComponent(encodedURI)|문자 대부분을 모두 디코딩합니다.|
 
 
 
