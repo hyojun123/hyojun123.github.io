@@ -1,3 +1,6 @@
+   <form id="frm">
+       <input type="hidden" id="pageName" name="pageName">
+   </form>
    <div id="header">
     <button id="menu-toggle" type="button">
         <span class="sr-only">Toggle Navigation Menu</span>
@@ -15,7 +18,7 @@
 
     <ul id="menu" class="nav">
         <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} {% endif %}"><a href="{{ base_path }}/">전체보기</a></li>
-        <li class="{% if page.url == '/opensource/' %} {% endif %}"><a href="{{ base_path }}/tags/with율">with율</a></li>
+        <li class="{% if page.url != '/opensource/' and page.url != '/openapi/' and page.url != '/events/' %} {% endif %}"><a href="{{ base_path }}/tags/with율">with율</a></li>
         <li class="{% if page.url == '/opensource/' %} {% endif %}"><a href="{{ base_path }}/tags/꿈꾸는책다방">꿈꾸는책다방</a></li>
         <li class="{% if page.url == '/opensource/' %} {% endif %}"><a href="{{ base_path }}/tags/스프링">스프링</a></li>
         <li class="{% if page.url == '/opensource/' %} {% endif %}"><a href="{{ base_path }}/tags/일기">일기</a></li>
