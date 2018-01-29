@@ -3,7 +3,7 @@ layout: post
 title: 'Advanced 자바'
 author : 효준
 date: 2017-12-26 21:36
-tags: [자바]
+tags: [java]
 image: /files/covers/blog.jpg
 ---
 ### advanced 자바

@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: 일기
+name: daily
 title: '일기장'
 ---

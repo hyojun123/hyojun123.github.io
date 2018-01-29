@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: 자바
+name: java
 title: '자바 스킬'
 ---

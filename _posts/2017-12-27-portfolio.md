@@ -3,7 +3,7 @@ layout: post
 title: '꿈꾸는 책다방 진행상황'
 author : 효준
 date: 2017-12-27 16:44
-tags: [꿈꾸는책다방]
+tags: [bookdream]
 image: /files/covers/blog.jpg
 ---
 

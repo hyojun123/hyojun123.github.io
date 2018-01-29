@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: 스프링
+name: spring
 title: '스프링 스킬'
 ---

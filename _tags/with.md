@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: with율
+name: with
 title: '율이랑의 데이트 ♥'
 ---

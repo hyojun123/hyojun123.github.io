@@ -3,7 +3,7 @@ layout: post
 title: '클로저'
 author : 효준
 date: 2017-12-27 15:55
-tags: [자바스크립트]
+tags: [javascript]
 image: /files/covers/blog.jpg
 ---
 

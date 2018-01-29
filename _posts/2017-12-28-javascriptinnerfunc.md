@@ -3,7 +3,7 @@ layout: post
 title: '자바스크립트 내장 함수'
 author : 효준
 date: 2017-12-28 14:15
-tags: [자바스크립트]
+tags: [javascript]
 image: /files/covers/blog.jpg
 ---
 

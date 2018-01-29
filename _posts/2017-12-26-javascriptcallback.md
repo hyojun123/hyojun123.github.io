@@ -3,7 +3,7 @@ layout: post
 title: '콜백함수'
 author : 효준
 date: 2017-12-26 21:14
-tags: [자바스크립트]
+tags: [javascript]
 image: /files/covers/blog.jpg
 ---
 

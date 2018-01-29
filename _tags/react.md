@@ -1,5 +1,5 @@
 ---
 layout: tag
-name: 리액트js
+name: react
 title: '리액트'
 ---
