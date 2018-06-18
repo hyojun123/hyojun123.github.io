@@ -32,8 +32,8 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-05-30-test.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="394">
-                <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+              <first_editor relative-caret-position="375">
+                <caret line="134" selection-start-line="134" selection-end-line="134" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -127,15 +127,24 @@
       <workItem from="1528075851383" duration="1330000" />
       <workItem from="1528080002092" duration="35000" />
       <workItem from="1528347837867" duration="69000" />
-      <workItem from="1529305352699" duration="1542000" />
+      <workItem from="1529305352699" duration="1801000" />
     </task>
+    <task id="LOCAL-00001" summary=".">
+      <created>1529306994576</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1529306994576</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3095000" />
+    <option name="totallyTimeSpent" value="3354000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1589" y="76" width="1400" height="1000" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -161,6 +170,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="." />
+    <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-30-test2.md">
@@ -290,8 +303,8 @@
       </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="394">
-            <caret line="135" lean-forward="true" selection-start-line="135" selection-end-line="135" />
+          <first_editor relative-caret-position="375">
+            <caret line="134" selection-start-line="134" selection-end-line="134" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
