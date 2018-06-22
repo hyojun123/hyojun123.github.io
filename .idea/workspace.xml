@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="" />
-=======
     <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-06-21-springboot.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-git2.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-git2.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-git3.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-git3.md" afterDir="false" />
     </list>
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -19,37 +17,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="2018-06-18-linux2.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux2.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2018-06-18-linux3.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md">
-<<<<<<< HEAD
+    <leaf>
+      <file leaf-file-name="2018-01-17-git3.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="627">
-                <caret line="33" selection-start-line="33" selection-end-line="33" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-=======
-          <provider selected="true" editor-type-id="text-editor" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
-        </entry>
-      </file>
-      <file leaf-file-name="2018-01-17-git.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
-<<<<<<< HEAD
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="540">
-                <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -63,86 +37,27 @@
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
               <first_editor relative-caret-position="76">
-                <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+                <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
-=======
-          <provider selected="true" editor-type-id="text-editor" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file leaf-file-name="2018-06-21-springboot.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-springboot.md">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
-            </state>
-          </provider>
-        </entry>
-      </file>
-<<<<<<< HEAD
-      <file leaf-file-name="2018-01-17-git3.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="521">
-                <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+              <first_editor relative-caret-position="152">
+                <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017-12-28-spring7.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="627">
-                <caret line="33" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
-              </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-=======
-      <file leaf-file-name="2017-12-28-spring7.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="spring.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_tags/spring.md">
-          <provider selected="true" editor-type-id="text-editor" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
-        </entry>
-      </file>
-      <file leaf-file-name="egov.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_tags/egov.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="header.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_includes/header.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="21" column="114" selection-start-line="21" selection-start-column="114" selection-end-line="21" selection-end-column="114" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="linux.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_tags/linux.md">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="2018-05-30-linux1.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-05-30-linux1.md">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -160,12 +75,9 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/2018-06-18-linux3.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-17-git.md" />
-<<<<<<< HEAD
-        <option value="$PROJECT_DIR$/_posts/2018-01-17-git2.md" />
-        <option value="$PROJECT_DIR$/_posts/2018-01-17-git3.md" />
-=======
         <option value="$PROJECT_DIR$/_posts/2018-06-21-springboot.md" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
+        <option value="$PROJECT_DIR$/_posts/2018-01-17-git3.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-17-git2.md" />
       </list>
     </option>
   </component>
@@ -189,6 +101,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -199,37 +112,16 @@
             <path>
               <item name="hyojun123.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="hyojun123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hyojun123.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hyojun123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hyojun123.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hyojun123.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hyojun123.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hyojun123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="_tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="hyojun123.github.io" type="b2602c69:ProjectViewProjectNode" />
-              <item name="hyojun123.github.io" type="462c0819:PsiDirectoryNode" />
-              <item name="files" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="Spring&#9;FILE&#9;file://C:/Users/JUN/Desktop/hyojun123.github.io/_tags/spring.md&#10;전자정부&#9;null&#9;null" />
+    <property name="SearchEverywhereHistoryKey" value="Spring&#9;FILE&#9;file://C:/Users/JUN/Desktop/hyojun123.github.io/_tags/spring.md&#10;?�자?��?&#9;null&#9;null" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -238,11 +130,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-<<<<<<< HEAD
-=======
       <recent name="C:\Users\Administrator\Desktop\hyojun123.github.io\_posts" />
       <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\files\git" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
       <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\_posts" />
       <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\files\git" />
     </key>
@@ -279,15 +168,9 @@
       <workItem from="1529311022735" duration="48000" />
       <workItem from="1529317640371" duration="427000" />
       <workItem from="1529483227833" duration="71000" />
-<<<<<<< HEAD
-      <workItem from="1529543843011" duration="1654000" />
-      <workItem from="1529569401672" duration="607000" />
-      <workItem from="1529626648370" duration="174000" />
-      <workItem from="1529640462919" duration="1684000" />
-=======
       <workItem from="1529543843011" duration="1185000" />
       <workItem from="1529587693805" duration="159000" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
+      <workItem from="1529643033023" duration="37000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1529306994576</created>
@@ -300,27 +183,20 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-<<<<<<< HEAD
-    <option name="totallyTimeSpent" value="9040000" />
-=======
-    <option name="totallyTimeSpent" value="6265000" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
+    <option name="totallyTimeSpent" value="6355000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-<<<<<<< HEAD
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
-=======
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32972974" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -343,18 +219,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
-<<<<<<< HEAD
-=======
-    <entry file="file://$PROJECT_DIR$/_tags/egov.md" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
-    <entry file="file://$PROJECT_DIR$/_includes/header.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="114" selection-start-line="21" selection-start-column="114" selection-end-line="21" selection-end-column="114" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_tags/linux.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-05-30-linux1.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux2.md" />
@@ -458,35 +322,26 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md">
-<<<<<<< HEAD
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="627">
-            <caret line="33" selection-start-line="33" selection-end-line="33" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="627">
-            <caret line="33" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
-          </first_editor>
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="472">
+          <caret line="364" column="71" selection-end-line="381" selection-end-column="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="540">
-            <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -498,7 +353,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="76">
-            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+            <caret line="4" column="22" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -506,29 +361,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-springboot.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="521">
-            <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
+          <first_editor relative-caret-position="152">
+            <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
           </second_editor>
-=======
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-springboot.md">
-      <provider selected="true" editor-type-id="text-editor">
+        </state>
+      </provider>
+      <provider editor-type-id="text-editor">
         <state relative-caret-position="435">
           <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
->>>>>>> cbb4619b59c914014d1916c999bad74818b1843d
         </state>
       </provider>
     </entry>
