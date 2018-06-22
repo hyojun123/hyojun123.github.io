@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-01-17-git.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/git/git.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-01-17-git2.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-01-17-git3.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-git.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -36,7 +37,7 @@
         <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="375">
+              <first_editor relative-caret-position="627">
                 <caret line="33" selection-start-line="33" selection-end-line="33" />
               </first_editor>
               <second_editor>
@@ -46,12 +47,40 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-01-17-git.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="2018-01-17-git.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="412">
-                <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+              <first_editor relative-caret-position="540">
+                <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-17-git2.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git2.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="76">
+                <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-01-17-git3.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="521">
+                <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -64,30 +93,9 @@
         <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="171">
-                <caret line="33" lean-forward="true" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
+              <first_editor relative-caret-position="627">
+                <caret line="33" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
               </first_editor>
-              <second_editor>
-                <markdownNavigatorState />
-              </second_editor>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_config.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1178">
-              <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="spring.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_tags/spring.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-            <state split_layout="SPLIT">
-              <first_editor />
               <second_editor>
                 <markdownNavigatorState />
               </second_editor>
@@ -159,6 +167,8 @@
         <option value="$PROJECT_DIR$/_includes/header.html" />
         <option value="$PROJECT_DIR$/_posts/2018-06-18-linux3.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-17-git.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-17-git2.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-01-17-git3.md" />
       </list>
     </option>
   </component>
@@ -172,8 +182,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="381" />
-    <option name="y" value="3" />
+    <option name="x" value="180" />
+    <option name="y" value="107" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
@@ -231,8 +241,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\files\git" />
       <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\_posts" />
+      <recent name="C:\Users\JUN\Desktop\hyojun123.github.io\files\git" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -267,7 +277,10 @@
       <workItem from="1529311022735" duration="48000" />
       <workItem from="1529317640371" duration="427000" />
       <workItem from="1529483227833" duration="71000" />
-      <workItem from="1529543843011" duration="1185000" />
+      <workItem from="1529543843011" duration="1654000" />
+      <workItem from="1529569401672" duration="607000" />
+      <workItem from="1529626648370" duration="174000" />
+      <workItem from="1529640462919" duration="1599000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1529306994576</created>
@@ -280,7 +293,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6106000" />
+    <option name="totallyTimeSpent" value="8955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -316,26 +329,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_tags/spring.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_tags/egov.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor />
-          <second_editor>
-            <markdownNavigatorState />
-          </second_editor>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/_includes/header.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -782,7 +775,7 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="375">
+          <first_editor relative-caret-position="627">
             <caret line="33" selection-start-line="33" selection-end-line="33" />
           </first_editor>
           <second_editor>
@@ -794,8 +787,8 @@
     <entry file="file://$PROJECT_DIR$/_posts/2017-12-28-spring7.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="171">
-            <caret line="33" lean-forward="true" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
+          <first_editor relative-caret-position="627">
+            <caret line="33" selection-start-line="39" selection-end-line="39" selection-end-column="81" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
@@ -806,8 +799,32 @@
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="412">
-            <caret line="108" lean-forward="true" selection-start-line="108" selection-end-line="108" />
+          <first_editor relative-caret-position="540">
+            <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="141" selection-end-column="8" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git2.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" column="19" lean-forward="true" selection-start-line="4" selection-start-column="19" selection-end-line="4" selection-end-column="19" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git3.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="521">
+            <caret line="65" column="17" selection-start-line="65" selection-start-column="17" selection-end-line="65" selection-end-column="17" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
