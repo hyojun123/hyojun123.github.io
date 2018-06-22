@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-01-17-git2.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2018-01-17-git3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-git.md" afterDir="false" />
-    </list>
+    <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -280,7 +275,7 @@
       <workItem from="1529543843011" duration="1654000" />
       <workItem from="1529569401672" duration="607000" />
       <workItem from="1529626648370" duration="174000" />
-      <workItem from="1529640462919" duration="1599000" />
+      <workItem from="1529640462919" duration="1684000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1529306994576</created>
@@ -293,20 +288,19 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8955000" />
+    <option name="totallyTimeSpent" value="9040000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18020834" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32978722" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
