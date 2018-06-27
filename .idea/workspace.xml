@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="191f2340-ce7a-4133-9c07-01525483f3bb" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2018-06-21-JPA.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2018-06-27-Vue.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/2018-01-17-git.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-01-17-git.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2018-06-21-JPA.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2018-06-26-JPA.md" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -74,12 +74,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="2018-06-21-JPA.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-JPA.md">
+      <file leaf-file-name="2018-06-26-JPA.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-26-JPA.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="450">
-                <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+              <first_editor relative-caret-position="1026">
+                <caret line="54" selection-start-line="54" selection-end-line="54" />
+              </first_editor>
+              <second_editor>
+                <markdownNavigatorState />
+              </second_editor>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="2018-06-27-Vue.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-Vue.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="969">
+                <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
               </first_editor>
               <second_editor>
                 <markdownNavigatorState />
@@ -107,6 +121,7 @@
         <option value="$PROJECT_DIR$/_posts/2018-01-17-git2.md" />
         <option value="$PROJECT_DIR$/_posts/2018-01-17-git.md" />
         <option value="$PROJECT_DIR$/_posts/2018-06-21-JPA.md" />
+        <option value="$PROJECT_DIR$/_posts/2018-06-27-Vue.md" />
       </list>
     </option>
   </component>
@@ -120,10 +135,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="256" />
-    <option name="y" value="34" />
-    <option name="width" value="1400" />
-    <option name="height" value="1000" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -202,6 +217,9 @@
       <workItem from="1529643033023" duration="218000" />
       <workItem from="1529654009933" duration="116000" />
       <workItem from="1529993918676" duration="1332000" />
+      <workItem from="1530060416951" duration="540000" />
+      <workItem from="1530061933339" duration="92000" />
+      <workItem from="1530080024820" duration="1053000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <created>1529306994576</created>
@@ -214,7 +232,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7984000" />
+    <option name="totallyTimeSpent" value="9669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -249,7 +267,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux2.md" />
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-18-linux3.md" />
     <entry file="file://$PROJECT_DIR$/_layouts/home.html">
@@ -388,7 +405,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-01-17-git.md">
-      <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="76">
@@ -399,13 +415,9 @@
           </second_editor>
         </state>
       </provider>
+      <provider editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-springboot.md">
-      <provider editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
-        </state>
-      </provider>
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="152">
@@ -416,12 +428,29 @@
           </second_editor>
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="35" column="55" selection-start-line="35" selection-start-column="55" selection-end-line="35" selection-end-column="55" />
+        </state>
+      </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_posts/2018-06-21-JPA.md">
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-26-JPA.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="450">
-            <caret line="64" column="17" selection-start-line="64" selection-start-column="17" selection-end-line="64" selection-end-column="17" />
+          <first_editor relative-caret-position="1026">
+            <caret line="54" selection-start-line="54" selection-end-line="54" />
+          </first_editor>
+          <second_editor>
+            <markdownNavigatorState />
+          </second_editor>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_posts/2018-06-27-Vue.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;MarkdownPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="969">
+            <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
           </first_editor>
           <second_editor>
             <markdownNavigatorState />
