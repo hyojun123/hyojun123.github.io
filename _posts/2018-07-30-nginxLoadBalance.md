@@ -2,7 +2,7 @@
 layout: post
 title: 'nginx에서 로드밸런싱 하기'
 author : 효준
-date: 2018-07-30 10:03
+date: 2018-07-30 17:30
 tags: [linux]
 image: /files/covers/blog.jpg
 ---
