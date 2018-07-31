@@ -22,6 +22,7 @@ image: /files/covers/blog.jpg
     그 후에
     upstream hjApp {
         least_conn; # 현재 가장 부하가 적은 서버로 보낸다.
+                    # 만약 ip_hash; 를 적용하면 sticky session이 적용된다고 함. 한 ip는 그서버만이용
 
         server localhost:8099;
         server localhost:8090;
