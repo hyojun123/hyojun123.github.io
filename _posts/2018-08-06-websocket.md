@@ -38,3 +38,111 @@ image: /files/covers/blog.jpg
 
     5. 클라우드 환경이나 웹을 넘어 SOA(Service Oriented Architecture) 로 확장해야 하는 경우
 
+
+# 웹소켓 구현 (서버)
+    compile('org.springframework.boot:spring-boot-starter-websocket')
+
+    websocket에 대한 디펜던시 추가
+========================================================================
+
+    @Configuration
+    @EnableWebSocketMessageBroker
+    public class WebSocketConfig implements WebSocketMessageBrokerConfigurer {
+        @Override
+        public void registerStompEndpoints(StompEndpointRegistry registry) {
+            registry.addEndpoint("/stomp").withSockJS();
+        }
+
+        @Override
+        public void configureMessageBroker(MessageBrokerRegistry registry) {
+            registry.enableSimpleBroker("/topic");
+            registry.setApplicationDestinationPrefixes("/app");
+        }
+    }
+    웹소켓에 대한 설정이다.
+
+========================================================================
+
+    @Component
+    public class Producer {
+        private static final SimpleDateFormat dateFormatter = new SimpleDateFormat("MM/dd/yyyy HH:mm:ss");
+
+        @Autowired
+        private SimpMessagingTemplate template;
+
+        public void sendMessage(String topic, String message) {
+            StringBuilder builder = new StringBuilder();
+            builder.append("[");
+            builder.append(dateFormatter.format(new Date()));
+            builder.append("]");
+            builder.append(message);
+
+            this.template.convertAndSend("/topic/" + topic, builder.toString());
+
+        }
+
+    }
+
+    /topic/으로 날짜와 메시지를 보내줄것.
+
+========================================================================
+
+    @RestController
+    public class WebSocketController {
+        @Autowired
+        Producer producer;
+
+        @RequestMapping(value = "/send/{topic}")
+        public String sender(@PathVariable String topic, @RequestParam String message) {
+            producer.sendMessage(topic, message);
+            return "OK";
+        }
+    }
+
+
+
+========================================================================
+# 웹소켓 구현 (클라이언트)
+
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>스프링부트 웹소켓 메시징</title>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/sockjs-client/1.1.5/sockjs.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/stomp.js/2.3.3/stomp.min.js"></script>
+    </head>
+    <body>
+        <div>
+            <form id="frm" method="get" onsubmit="return false;">
+                <h3>메시지 : <input id="message" type="text" name="message"></h3>
+                <ol id="messages"></ol>
+                <input type="button" id="submitBtn" value="메시지보내기">
+            </form>
+        </div>
+
+    <script>
+        $(document).ready(function () {
+            var messageList = $("#messages");
+            var socket = new SockJS('/stomp');
+            var stompClient = Stomp.over(socket);
+            stompClient.connect({}, function (frame) {
+                stompClient.subscribe("/topic/message", function (data) {
+                    var message = data.body;
+                    messageList.append("<li>" + message +"</li>");
+                    });
+                });
+            });
+           $("#submitBtn").off().on('click', function () {
+                $.ajax({
+                    url : '/send/message?message='+$('#message').val(),
+                    type : 'get'
+                });
+        });
+    </script>
+    </body>
+    </html>
+
+    메시지보내기 버튼을 클릭하면 ajax를 통해 /send/message로 보냄 (맞는지는 모르겠음)
+
