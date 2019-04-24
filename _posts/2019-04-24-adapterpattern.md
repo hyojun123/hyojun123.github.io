@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'REST, REST API, RESTFUL'
+title: '아답터 패턴 Adapter Pattern'
 author : 효준
 date: 2019-04-24 13:50
 tags: [basic]
