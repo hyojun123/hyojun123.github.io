@@ -3,7 +3,7 @@ layout: post
 title: '템플릿 메소드 패턴(Template Method Pattern)'
 author : 효준
 date: 2019-04-26 13:50
-tags: [spring]
+tags: [basic]
 image: /files/covers/blog.jpg
 ---
 
