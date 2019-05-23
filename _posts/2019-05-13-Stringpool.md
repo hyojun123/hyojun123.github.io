@@ -2,8 +2,8 @@
 layout: post
 title: 'Java에서 String 클래스'
 author : 효준
-date: 2019-05-03 13:00
-tags: [basic]
+date: 2019-05-23 13:00
+tags: [java]
 image: /files/covers/blog.jpg
 ---
 
