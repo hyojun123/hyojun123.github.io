@@ -13,7 +13,7 @@ image: /files/covers/blog.jpg
 
 # String pool
 
-Java 디자이너는 설꼐시 모든 종류의 Java 어플리케이션에서 가장 많이 사용 되는 데이터타입이  String이 될 것이라 예측했었고,<br> 그리고 그것이 처음부터
+Java 디자이너는 설계시 모든 종류의 Java 어플리케이션에서 가장 많이 사용 되는 데이터타입이  String이 될 것이라 예측했었고,<br> 그리고 그것이 처음부터
 최적화가 필요한 이유라는 것을 알았다.
 첫번째 아이디어는 String pool에 String 리터럴을 포함하는 것이었다.<br>
 목표는 String 객체를 공유해, 템프러리하게 생성된 String 객체를 줄여주는 것이었다. 공유를 하기 위해서는 String 클래스는 Immutable Class 여야 한다.
