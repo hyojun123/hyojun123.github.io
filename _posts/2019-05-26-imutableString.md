@@ -2,7 +2,7 @@
 layout: post
 title: 'String은 immutable인가?'
 author : 효준
-date: 2019-05-09 13:00
+date: 2019-05-26 13:00
 tags: [java]
 image: /files/covers/blog.jpg
 ---
