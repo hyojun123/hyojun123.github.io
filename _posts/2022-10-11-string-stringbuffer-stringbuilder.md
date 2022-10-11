@@ -3,7 +3,7 @@ layout: post
 title: '[백엔드-면접] String, StringBuffer, StringBuilder의 차이'
 author : 효준
 date: 2022-10-11 20:00
-tags: [java]
+tags: [spring]
 image: /files/covers/blog.jpg
 ---
 
