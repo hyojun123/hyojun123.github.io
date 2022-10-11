@@ -2,8 +2,7 @@ title: hyojun note about web
 email: chlgkwk123@nate.com
 description: |
   웹 프로그래밍 연습장입니다.
-baseurl: ''
-
+baseurl: ""
 timezone: Asia/Seoul
 
 repository: hyojun123/hyojun123.github.io
@@ -22,7 +21,7 @@ plugins:
   - jekyll-paginate
 
 paginate: 5
-paginate_path: '/page/:num/'
+paginate_path: "/page/:num/"
 
 collections:
   authors:
@@ -31,15 +30,16 @@ collections:
   tags:
     output: true
     permalink: /tags/:path/
-
+future: true
+published: true
 defaults:
   - scope:
-      path: ''
+      path: ""
       type: authors
     values:
       layout: author
   - scope:
-      path: ''
+      path: ""
       type: tags
     values:
       layout: tag
@@ -50,14 +50,14 @@ keep_files: [assets, files]
 github: [metadata]
 # iolo's custom
 author: chlgkwk123@nate.com
-image: '/assets/images/default_blog_cover.jpg'
+image: "/assets/images/default_blog_cover.jpg"
 asset_url: /assets
 #asset_url: //meta-kage.kakaocdn.net/dn/osa/blog/assets
 #asset_url: //t1.daumcdn.net/osa/blog/assets
 #google_analytics:
 #  ua: 'UA-72007721-1'
 facebook:
-  app_id: '1204347326263800'
+  app_id: "1204347326263800"
   username: profile.php?id=100007371457483
 #twitter:
 #  username: kakaodev
