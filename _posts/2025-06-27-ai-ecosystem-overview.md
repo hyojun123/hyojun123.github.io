@@ -3,7 +3,7 @@ layout: post
 title: '2025년 AI 생태계: 현재와 미래를 읽는 핵심 트렌드'
 author : 효준
 date: 2025-06-27 10:00
-tags: [daily]
+tags: [basic]
 image: /files/covers/ai_ecosystem.jpg
 ---
 
