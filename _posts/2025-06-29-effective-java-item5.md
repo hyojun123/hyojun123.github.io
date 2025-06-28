@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective Java Item 5: 의존성 주입으로 유연하고 테스트 가능한 코드 만들기
+title: 'Effective Java Item 5: 의존성 주입으로 유연하고 테스트 가능한 코드 만들기'
 author: 효준
 date: 2025-06-29 09:00:00 +0900
 categories: [Java, Effective Java]

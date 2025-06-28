@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 테슬라, 2025년 상반기 주요 동향 분석: 도전과 기회
+title: '테슬라, 2025년 상반기 주요 동향 분석: 도전과 기회'
 author: 효준
 date: 2025-06-29 10:00:00 +0900
 categories: [Business, Tech]

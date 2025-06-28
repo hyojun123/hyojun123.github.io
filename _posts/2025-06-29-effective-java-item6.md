@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Effective Java Item 6: 불필요한 객체 생성을 피하라
+title: 'Effective Java Item 6: 불필요한 객체 생성을 피하라'
 author: 효준
 date: 2025-06-29 09:30:00 +0900
 categories: [Java, Effective Java]
